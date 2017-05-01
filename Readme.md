@@ -1,3 +1,3 @@
 Read me
 
-https://travis-ci.org/mafreeman02/Hello-World.svg?branch=master
+[![Build Status](https://travis-ci.org/mafreeman02/Hello-World.svg?branch=master)](https://travis-ci.org/mafreeman02/Hello-World)
